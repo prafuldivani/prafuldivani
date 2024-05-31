@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praful</h1>
 
-<img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="300">
-  
+<h3 align="center">Full Stack JavaScript Developer | 4 Years Experience | React, Next.js, Node.js, Express, MongoDB, Firebase | Tackling Challenging Tasks with Expertise</h3>
+
 Hi, I'm **Praful Divani**, a competent full-stack developer with 4 years of experience. My work involves both frontend and backend technologies, including:
 
 - **Frontend**: HTML, CSS, JavaScript, ReactJS, NextJS, MUI, EJS
@@ -10,6 +10,16 @@ Hi, I'm **Praful Divani**, a competent full-stack developer with 4 years of expe
 - **Others**: Cloudflare, GoDaddy, Github, Figma
 
 I build exciting user interfaces with strong backend solutions for web applications.
+
+
+- 🌱 I’m currently learning **AWS**
+
+- 💬 Ask me about **react, next, mongodb, express, firebase, heroku, ubuntu**
+
+- 📫 How to reach me **dpraful72@gmail.com**
+
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Aw_Fqaqkd5gJtuHaYnd5Tig_hJvodH28/view?usp=sharing)
+
 
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,mui,tailwind)
@@ -27,6 +37,12 @@ I build exciting user interfaces with strong backend solutions for web applicati
 Thanks for visiting my profile!
 
 
+<!-- Github Stats -->
 <!-- <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=prafuldivani&show_icons=true alt=prafuldivani /> </p> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prafuldivani&show_icons=true&locale=en&layout=compact" alt="prafuldivani" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prafuldivani&" alt="prafuldivani" /></p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prafuldivani" alt="prafuldivani" /></a> </p> -->
 
-<!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=prafuldivani alt=prafuldivani/> </p> -->
+
+<!-- Profile View Count -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prafuldivani&label=Profile%20views&color=0e75b6&style=flat" alt="prafuldivani" /> </p> -->
